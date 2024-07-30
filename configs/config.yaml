@@ -1,0 +1,6 @@
+# config can be accessed via bot
+# config is loaded once at program start
+
+discord:
+  # force_sync_with: 913584348937207839
+  activity_text: "Watching over the community"
