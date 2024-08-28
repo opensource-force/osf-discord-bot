@@ -1,11 +1,8 @@
 import discord
-import psutil
-import time
-import subprocess
-import asyncio
 import os
 from dotenv import load_dotenv
-import atexit
+import db,ai 
+
 load_dotenv()
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 

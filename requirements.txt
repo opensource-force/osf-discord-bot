@@ -1,2 +1,8 @@
 discord.py
 python-dotenv
+huggingface_hub
+langchain-community
+langchain_text_splitters
+chromadb
+transformers
+
