@@ -38,10 +38,11 @@ A Discord bot designed for the OSF (Open Source Force) community. This bot facil
     create a .env file in the root directory of the project and add your discord bot token:
     
    ```bash
-   bot_token=your_discord_bot_token_here
+   BOT_TOKEN=your_discord_bot_token_here
+   HUGGINGFACE_API_TOKEN=your_huggingface_api_token_here
    ```
    
-   Note: You need to register for a bot in the Discord Developer Portal.
+   Note: You need to register for a bot in the Discord Developer Portal and you also need to generate a api token from huggingface.
 
 4. **Install requirements.txt**
 
