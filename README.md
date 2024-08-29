@@ -40,9 +40,10 @@ A Discord bot designed for the OSF (Open Source Force) community. This bot facil
    ```bash
    BOT_TOKEN=your_discord_bot_token_here
    HUGGINGFACE_API_TOKEN=your_huggingface_api_token_here
+   CHANNEL_ID=the_id_of_the_channel_the_bot_should_operate_in
    ```
    
-   Note: You need to register for a bot in the Discord Developer Portal and you also need to generate a api token from huggingface.
+   Note: You need to register for a bot in the Discord Developer Portal and you also need to generate a api token from huggingface,the channel id can be easily accessed by right clicking on a channel and you can copy from there.
 
 4. **Install requirements.txt**
 
